@@ -55,4 +55,8 @@ Contributing
 Contributions to the SME-IoT library are welcome! If you have an idea for a new feature, a bug fix, or just a suggestion, please open an issue on GitHub or submit a pull request.
 
 License
-This README.md file includes a brief overview of the library, its features, installation and usage instructions, and information on how to contribute to the project. It also includes a visual element - a logo image - to help make the README more visually appealing. You can customize the content and layout of your own README to suit your needs and preferences.
+The SME-IoT library is licensed under the MIT License. See the LICENSE file for more information.
+
+
+In this updated version of the README.md file, the `Contributing` and `License` sections appear after the code block, separated by a blank line, to distinguish them from the code-related content.
+
