@@ -51,12 +51,10 @@ void loop() {
   delay(10000);
 }
 
+```
+
 Contributing
 Contributions to the SME-IoT library are welcome! If you have an idea for a new feature, a bug fix, or just a suggestion, please open an issue on GitHub or submit a pull request.
 
 License
 The SME-IoT library is licensed under the MIT License. See the LICENSE file for more information.
-
-
-In this updated version of the README.md file, the `Contributing` and `License` sections appear after the code block, separated by a blank line, to distinguish them from the code-related content.
-
