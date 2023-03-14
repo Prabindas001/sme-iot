@@ -30,9 +30,6 @@ To use the SME-IoT library in your Arduino sketch, you need to include its heade
 ```cpp
 #include <sme-iot.h>
 
-
-#include <sme-iot.h>
-
 SMEIoT smeiot;
 
 void setup() {
@@ -53,8 +50,8 @@ void loop() {
 
 ```
 
-Contributing
+#Contributing
 Contributions to the SME-IoT library are welcome! If you have an idea for a new feature, a bug fix, or just a suggestion, please open an issue on GitHub or submit a pull request.
 
-License
+#License
 The SME-IoT library is licensed under the MIT License. See the LICENSE file for more information.
